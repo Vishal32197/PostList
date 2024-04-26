@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "93BF8D28-D657-4033-AFB2-DCAA098C1026"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B62FAC1D-3AF0-483E-A008-D85D75F2DED6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserListDemo/Modules/UserList/ViewModel/UserListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "fetchPosts(page:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B62FAC1D-3AF0-483E-A008-D85D75F2DED6 - ed396728256f09dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;UserListDemo.Post&gt;&gt;, Swift.Optional&lt;UserListDemo.NetworkError&gt;) -&gt; () in UserListDemo.UserListViewModel.fetchImages(page: Swift.Int) -&gt; ()"
+                  moduleName = "UserListDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bishalram/Desktop/UserListDemo/UserListDemo/Modules/UserList/ViewModel/UserListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "B62FAC1D-3AF0-483E-A008-D85D75F2DED6 - bfe1317cd06b98f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;UserListDemo.Post&gt;&gt;, Swift.Optional&lt;UserListDemo.NetworkError&gt;) -&gt; () in UserListDemo.UserListViewModel.fetchPosts(page: Swift.Int) -&gt; ()"
+                  moduleName = "UserListDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bishalram/Desktop/UserListDemo/UserListDemo/Modules/UserList/ViewModel/UserListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "444">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AA3255B-129A-45B7-B702-6240048F43E9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserListDemo/NetworkService/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "request(route:method:params:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C059F10C-3DD2-4ACD-9109-2F300AB93DCA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserListDemo/NetworkService/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "request(route:method:params:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AEA469A3-4870-4094-BA02-0648EF92FADB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserListDemo/Modules/UserList/ViewModel/UserListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "fetchPosts(page:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AEA469A3-4870-4094-BA02-0648EF92FADB - 441f7c1ffb8d1e5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListDemo.UserListViewModel.fetchImages(page: Swift.Int) -&gt; ()"
+                  moduleName = "UserListDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bishalram/Desktop/UserListDemo/UserListDemo/Modules/UserList/ViewModel/UserListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "AEA469A3-4870-4094-BA02-0648EF92FADB - cb9b6f8c5d044ed6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserListDemo.UserListViewModel.fetchPosts(page: Swift.Int) -&gt; ()"
+                  moduleName = "UserListDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bishalram/Desktop/UserListDemo/UserListDemo/Modules/UserList/ViewModel/UserListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "AEA469A3-4870-4094-BA02-0648EF92FADB - bfe1317cd06b9a0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;UserListDemo.Post&gt;&gt;, Swift.Optional&lt;UserListDemo.NetworkError&gt;) -&gt; () in UserListDemo.UserListViewModel.fetchPosts(page: Swift.Int) -&gt; ()"
+                  moduleName = "UserListDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bishalram/Desktop/UserListDemo/UserListDemo/Modules/UserList/ViewModel/UserListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E43D914-29AD-4CD5-8098-FB04AF752E4C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserListDemo/Modules/UserList/View/UserListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B34A0A5-8C0D-42AC-B9DF-923E552F731D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserListDemo/Modules/UserList/View/UserListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "addBindings()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
